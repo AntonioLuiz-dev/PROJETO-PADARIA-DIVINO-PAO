@@ -203,10 +203,10 @@ function closeModal() {
 
 // CONFIGURAÇÕES — edite aqui
 const CONFIG = {
-    pixChave: '21965547469',       // Sua chave Pix
+    pixChave: '***********',       // Sua chave Pix
     pixTipo: 'Telefone',           // Tipo da chave: Telefone, CPF, Email, etc.
     linkCartao: 'https://mpago.la/SEU-LINK-AQUI', // Link de pagamento Mercado Pago
-    whatsapp: '5521965547469'
+    whatsapp: '5521994882394'
 };
 
 function abrirCheckout() {
